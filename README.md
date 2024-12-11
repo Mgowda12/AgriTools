@@ -27,12 +27,12 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/agri-ecommerce-platform.git
+   git clone https://github.com/Mgowda12/AgriTools-Frontend.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd agri-ecommerce-platform
+   cd AgriTools-Frontend
    ```
 
 3. **Install dependencies**:
@@ -42,7 +42,7 @@ To get started with the project, follow these steps:
 
 4. **Start the development server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
