@@ -1,6 +1,3 @@
-Here's a sample README content for your e-commerce platform project:
-
----
 
 # E-Commerce Platform for Agricultural Tools and Fertilizers - Frontend
 
