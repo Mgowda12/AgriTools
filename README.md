@@ -12,8 +12,7 @@ Welcome to our e-commerce platform designed specifically for farmers and agricul
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+
 
 ## Introduction
 Our platform aims to provide farmers with easy access to essential agricultural supplies, fostering a productive and sustainable farming community. Farmers can browse, search, and purchase tools and fertilizers from trusted local shops.
