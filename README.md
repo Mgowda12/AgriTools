@@ -2,7 +2,7 @@ Here's a sample README content for your e-commerce platform project:
 
 ---
 
-# E-Commerce Platform for Agricultural Tools and Fertilizers
+# E-Commerce Platform for Agricultural Tools and Fertilizers - Frontend
 
 Welcome to our e-commerce platform designed specifically for farmers and agricultural suppliers. This platform connects farmers with local shops, offering a wide range of agricultural tools and fertilizers to enhance farming operations.
 
